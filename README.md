@@ -11,7 +11,7 @@ In order to run hello, you might want to type this in:
 ```
 ,]][,,[[[,,[[[[,,[[[[,,[[]],
 ```
-Notice how theres not a single letter or number? well we made it that way to make YOUR job harder, pretty funny eh?
+Notice how theres not a single letter or number? well we made it that way to make YOUR job harder. And I just fucked my brain while doing this.
 
 Anyways, lemme explain:
 
