@@ -2,7 +2,7 @@
 Of course, you may want to have followed the [docs](https://brainlack.github.io/) if you want to go here.
 
 # Syntax
-So our syntax is pretty inhumanely ununderstandable.
+So our syntax is pretty inhumanely misunderstandable.
 
 It consists of using brackets as a source of syntax. You may find all of that [here](https://github.com/brainlack/brainlack/blob/main/compiler.js)
 
