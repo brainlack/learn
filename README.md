@@ -6,7 +6,7 @@ So our syntax is pretty bad.
 
 It consists of using brackets as a source of syntax. You may find all of that [here](https://github.com/brainlack/brainlack/blob/main/compiler.js)
 
-You place a comma (,) before starting your letters since that was how the syntax was written. After each comma, you are going to need to place the letter in which you want to place followed by another comma. In this case, `h` was marked as `,]][,` and `e` would be followed as `,[[[,`.
+You place a comma (,) before starting your letters since that was how the syntax was written. After each comma, you are going to need to place the letter in which you want to place followed by another comma. 
 
 Another thing you might have noticed is the fact that the code ends in a comma, that was intentional since we ARE a hard language.
 
@@ -69,6 +69,9 @@ In order to run `console.log(hello);`, you might want to type this in:
 ,][,,[[]],,][][,,[[[],,[[]],,[[[[,,[[[,,[[][]],,[[[[,,[[]],,][[,,[[[]]]]],,[][][]][][,,]][,,[[[,,[[[[,,[[[[,,[[]],,[][][]][][,,[[][]]],,[][][]][[[[,
 ```
 Notice how theres not a single letter or number? well we made it that way to make YOUR job harder.
+
+Notice the syntax too; `h` was marked as `,]][,` and `e` would be followed as `,[[[,` and on and on.
+
 
 ## The end
 Anyway, enjoy making stuff with BrainLack! (or not)
