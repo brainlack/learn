@@ -9,7 +9,7 @@ It consists of using brackets as a source of syntax. You may find all of that [h
 # Running a simple hello
 In order to run hello, you might want to type this in:
 ```
-,]][,,[[[,,[[[[,,[[[[,,[[]],
+,][,,[[]],,][][,,[[[],,[[]],,[[[[,,[[[,,[[][]],,[[[[,,[[]],,][[,,[[[]]]]],,[[][],,[[][]]],,[][][]][[[[,
 ```
 Notice how theres not a single letter or number? well we made it that way to make YOUR job harder. And I just fucked my brain while doing this.
 
