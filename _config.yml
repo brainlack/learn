@@ -1,3 +1,4 @@
 remote_theme: benc-uk/theme-msdark
+hide_github: true/false
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
