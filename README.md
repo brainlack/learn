@@ -68,7 +68,7 @@ In order to run `console.log(hello);`, you might want to type this in:
 ```
 Notice how theres not a single letter or number? well we made it that way to make YOUR job harder.
 
-Notice the syntax too; `h` was marked as `,]][,` and `e` would be followed as `,[[[,` and on and on.
+Notice the syntax too; `h` was marked as `,]][,` and `e` would be followed as `,[[[,` and so on and so forth.
 
 Another thing you might have noticed is the fact that the code ends in a comma, that was intentional since we ARE a hard language.
 
