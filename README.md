@@ -19,8 +19,60 @@ You place a comma (,) before starting your letters since that was how the syntax
 
 Another thing you might have noticed is the fact that the code ends in a comma, that was intentional since we ARE a hard language.
 
-Essentially, you just have to learn JS and all our bracket encoding. You might wanna keep `compiler.js` open for this.
+Essentially, you just have to learn JS and all our bracket encoding.
 
+## List of letters/numbers
+```
+a = ,[[,
+b = ,[],
+c = ,][,
+d = ,]],
+e = ,[[[,
+f = ,[]],
+g = ,][[,
+h = ,]][,
+i = ,][],
+j = ,[][,
+k = ,]]],
+l = ,[[[[,
+m = ,[][],
+n = ,][][,
+o = ,[[]],
+p = ,[][[,
+q = ,][]],
+r = ,]]]],
+s = ,[[[],
+t = ,]][],
+u = ,[[][,
+v = ,[[[],
+w = ,[]][,
+x = ,]][[,
+y = ,[[[[[,
+z = ,[][[],
+1 = ,[[][],
+2 = ,[][][,
+3 = ,[[][]][[,
+4 = ,[[[[],
+5 = ,[[][]][],
+6 = ,[[]][],
+7 = ,[[[]],
+8 = ,[[[]]],
+9 = ,[]][]],
+0 = ,[[[]],
+. = ,[[][]],
+( = ,[[[]]]]],
+' ='[[][]]],
+_ = ,[[][[[],
+  = ,[[]][][,
++ = ,[][][]][,
+- = ,[[]][][],
+/ = ,]]][[[][,
+" = ,[][][]][]],
+' = ,[][][]][][,
+; = ,[][][]][[[,
+```
+
+## The end
 Anyway, enjoy making stuff with BrainLack! (or not)
 
 Just so y'all know, I am not responsible for any brain cells you lose while using this. Have fun! :D
