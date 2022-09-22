@@ -6,11 +6,9 @@ So our syntax is pretty bad.
 
 It consists of using brackets as a source of syntax. You may find all of that [here](https://github.com/brainlack/brainlack/blob/main/compiler.js)
 
-You place a comma (,) before starting your letters since that was how the syntax was written. After each comma, you are going to need to place the letter in which you want to place followed by another comma. 
+You place a comma (,) before starting your letters and after each letter since that was how the syntax was written. Your code should always end in a comma. 
 
-Another thing you might have noticed is the fact that the code ends in a comma, that was intentional since we ARE a hard language.
-
-Essentially, you just have to learn JS and all our bracket encoding. Listed below.
+Essentially, you just have to learn JS and all our bracket encoding listed below.
 
 ## List of letters/numbers
 ```
@@ -72,6 +70,7 @@ Notice how theres not a single letter or number? well we made it that way to mak
 
 Notice the syntax too; `h` was marked as `,]][,` and `e` would be followed as `,[[[,` and on and on.
 
+Another thing you might have noticed is the fact that the code ends in a comma, that was intentional since we ARE a hard language.
 
 ## The end
 Anyway, enjoy making stuff with BrainLack! (or not)
