@@ -1,10 +1,10 @@
 # Learning BrainLack
-Of course, you may want to have followed the [docs](https://brainlack.github.io/) if you want to go here.
+Of course, you may want to have followed the [docs](https://strywaretech.github.io/brainlack) if you want to go here.
 
 ## Syntax
 So our syntax is pretty bad.
 
-It consists of using brackets as a source of syntax. You may find all of that [here](https://github.com/brainlack/brainlack/blob/main/compiler.js)
+It consists of using brackets as a source of syntax. You may find all of that [here](https://github.com/strywaretech/brainlack/blob/main/compiler.js)
 
 You place a comma (,) before starting your letters and after each letter since that was how the syntax was written. Your code should always end in a comma. 
 
