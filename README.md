@@ -63,9 +63,9 @@ _ = ,[[][[[],
 ```
 
 ## Running a simple hello
-In order to run `console.log(hello);`, you might want to type this in:
+In order to run `console.log("hello, world");`, you might want to type this in:
 ```
-,][,,[[]],,][][,,[[[],,[[]],,[[[[,,[[[,,[[][]],,[[[[,,[[]],,][[,,[[[]]]]],,[][][]][][,,]][,,[[[,,[[[[,,[[[[,,[[]],,[][][]][][,,[[][]]],,[][][]][[[[,
+,][,,[[]],,][][,,[[[],,[[]],,[[[[,,[[[,,[[][]],,[[[[,,[[]],,][[,,[[[]]]]],,[][][]][]],,]][,,[[[,,[[[[,,[[[[,,[[]],,,[[]][][,,[]][,,[[]],,]]]],,[[[[,,]],,[][][]][]],,[[][]]],,[][][]][[[[,
 ```
 Notice how theres not a single letter or number? well we made it that way to make YOUR job harder.
 
